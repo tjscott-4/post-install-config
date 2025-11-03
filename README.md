@@ -79,7 +79,7 @@ Departments define ticket routing and visibility, helping separate Help Desk, Ne
 🧠 **Skills demonstrated:**  
 Department configuration, workflow segmentation, access control.
 
-![Step 3 Screenshot](images/step3_departments.png)
+<img width="960" height="412" alt="image" src="https://github.com/user-attachments/assets/51c3083f-1fc5-49f9-85e6-3fab36a8d907" />
 
 ---
 
@@ -96,7 +96,7 @@ Teams allow agents from different departments to collaborate on specific ticket 
 🧠 **Skills demonstrated:**  
 Team management, cross-department collaboration.
 
-![Step 4 Screenshot](images/step4_teams.png)
+<img width="955" height="353" alt="image" src="https://github.com/user-attachments/assets/b1bedd88-c2d0-42af-85c9-8140f80bcffe" />
 
 ---
 
@@ -113,7 +113,7 @@ Ensures that only registered users can submit tickets — improving tracking, ac
 🧠 **Skills demonstrated:**  
 User policy configuration, access control, data integrity.
 
-![Step 5 Screenshot](images/step5_user_settings.png)
+<img width="960" height="432" alt="image" src="https://github.com/user-attachments/assets/1434b497-4f20-463c-9f02-cb499852b2ee" />
 
 ---
 
@@ -131,7 +131,7 @@ Agents are responsible for resolving tickets; proper setup ensures efficient wor
 🧠 **Skills demonstrated:**  
 Staff account creation, department assignment, role management.
 
-![Step 6 Screenshot](images/step6_agents.png)
+<img width="960" height="319" alt="image" src="https://github.com/user-attachments/assets/6a381e61-333b-4892-bcba-32b86608b8c5" />
 
 ---
 
@@ -149,7 +149,8 @@ Users represent customers or employees who submit tickets for technical support.
 🧠 **Skills demonstrated:**  
 User management, customer support setup, application configuration.
 
-![Step 7 Screenshot](images/step7_users.png)
+<img width="952" height="318" alt="image" src="https://github.com/user-attachments/assets/8a8f0785-2521-425d-83ce-d9c5db7ceb70" />
+<img width="960" height="322" alt="image" src="https://github.com/user-attachments/assets/0c11f6e7-4926-4feb-8364-955726c3be69" />
 
 ---
 
@@ -168,7 +169,10 @@ SLAs define response and resolution expectations based on ticket severity and bu
 🧠 **Skills demonstrated:**  
 SLA policy creation, IT service management, prioritization.
 
-![Step 8 Screenshot](images/step8_sla.png)
+<img width="954" height="323" alt="image" src="https://github.com/user-attachments/assets/df810ba8-2572-4955-b2e2-5c9017efdd36" />
+<img width="955" height="336" alt="image" src="https://github.com/user-attachments/assets/4f62b6e8-2c15-4669-84eb-9bcc5ed202dc" />
+<img width="955" height="346" alt="image" src="https://github.com/user-attachments/assets/fadcd059-8bd8-402f-9a93-ba4bf42ff4d8" />
+
 
 ---
 
@@ -189,7 +193,12 @@ Help Topics categorize incoming tickets to ensure proper routing to the right de
 🧠 **Skills demonstrated:**  
 Ticket categorization, workflow optimization, process automation.
 
-![Step 9 Screenshot](images/step9_help_topics.png)
+<img width="961" height="317" alt="image" src="https://github.com/user-attachments/assets/f0d80c2c-06a0-4052-abb5-9231ea8a9ea8" />
+<img width="956" height="316" alt="image" src="https://github.com/user-attachments/assets/9f1ad284-db8f-49a2-a070-3e7257ccf37c" />
+<img width="956" height="313" alt="image" src="https://github.com/user-attachments/assets/d0d172bd-3eea-4857-9857-156ca68d3b84" />
+<img width="956" height="314" alt="image" src="https://github.com/user-attachments/assets/61abf3a0-2665-44c0-b10b-0482e9c0df54" />
+<img width="957" height="309" alt="image" src="https://github.com/user-attachments/assets/12d6535b-222a-447a-8666-0a8ecc51926e" />
+<img width="956" height="454" alt="image" src="https://github.com/user-attachments/assets/7bfa2eab-1167-4027-b3be-6300d771559b" />
 
 ---
 
